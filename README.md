@@ -18,7 +18,7 @@
 ### Part 3.1 - 依赖  
 
 * [xmake](https://xmake.io/#/): 项目构建工具, 参考[官方文档](https://xmake.io/#/guide/installation)安装
-* C++命令行参数解析包 [getopt.h](https://github.com/skandhurkat/Getopt-for-Visual-Studio/blob/master/getopt.h), 本项目中已附带该包, 在 `src/common/getopt.h` 路径下, 若无法读取可前往官方代码库下载
+* [getopt.h](https://github.com/skandhurkat/Getopt-for-Visual-Studio/blob/master/getopt.h): C++命令行参数解析包, 本项目中已附带该包, 在 `src/common/getopt.h` 路径下, 若无法读取可前往官方代码库下载
 
 ### Part 3.2 - 编译  
 
